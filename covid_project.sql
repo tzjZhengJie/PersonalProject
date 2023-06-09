@@ -1,6 +1,7 @@
 ---------Documentation-----------
 --For more info;
 --https://www.kaggle.com/datasets/imdevskp/corona-virus-report
+--Tableau visualization: https://public.tableau.com/app/profile/tan.zheng.jie/viz/COVIDDashboardProject_16863227447060/Dashboard1
 -----------------------------------
 
 --Using relevant columns in this project
