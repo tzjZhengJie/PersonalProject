@@ -17,7 +17,3 @@ Feel free to explore the branches and their respective projects.
 ## Contributions
 
 Contributions, feedback, and suggestions are welcome! If you have any improvements or ideas for new data analyst projects, feel free to open an issue or submit a pull request.
-
-## License
-
-This repository is licensed under the [MIT License](LICENSE). Feel free to use the code and projects in this repository according to the terms of the license.
