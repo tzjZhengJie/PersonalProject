@@ -7,7 +7,7 @@ Welcome to my repository! This repository contains all my data analyst projects 
 To view my projects, you can switch to the respective branches representing different projects:
 
 - [SQL Branch](https://github.com/tzjZhengJie/PersonalProject/tree/SQL) - Projects related to SQL queries and database analysis.
-- [Tableau Branch](https://public.tableau.com/app/profile/tan.zheng.jie) - Projects created using Tableau for data visualization and analysis.
+- [Tableau Profile](https://public.tableau.com/app/profile/tan.zheng.jie) - Projects created using Tableau for data visualization and analysis.
 - [Power BI Branch](link_to_power_bi_branch) - Projects utilizing Power BI for data visualization and reporting.
 - [Excel Branch](link_to_excel_branch) - Projects involving data analysis and manipulation in Excel.
 - [Python Branch](link_to_python_branch) - Projects showcasing data analysis using Python and related libraries.
