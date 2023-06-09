@@ -4,7 +4,7 @@ Welcome to my repository! This repository contains all my data analyst projects 
 
 ## Projects
 
-To view my projects, you can switch to the respective branches representing different technologies:
+To view my projects, you can switch to the respective branches representing different projects:
 
 - [SQL Branch](https://github.com/tzjZhengJie/PersonalProject/tree/SQL) - Projects related to SQL queries and database analysis.
 - [Tableau Branch](https://github.com/tzjZhengJie/PersonalProject/tree/Tableau) - Projects created using Tableau for data visualization and analysis.
@@ -12,7 +12,7 @@ To view my projects, you can switch to the respective branches representing diff
 - [Excel Branch](link_to_excel_branch) - Projects involving data analysis and manipulation in Excel.
 - [Python Branch](link_to_python_branch) - Projects showcasing data analysis using Python and related libraries.
 
-Feel free to explore the branches and their respective projects to gain insights into different data analysis techniques and tools.
+Feel free to explore the branches and their respective projects.
 
 ## Contributions
 
