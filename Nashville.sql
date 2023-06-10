@@ -1,3 +1,8 @@
+---------Documentation-----------
+--For the dataset:
+--https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/Nashville%20Housing%20Data%20for%20Data%20Cleaning.xlsx
+-----------------------------------
+
 Select *
 From DataProject..NashvilleHousing
 
