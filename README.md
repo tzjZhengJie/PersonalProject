@@ -8,7 +8,9 @@ To view my projects, you can switch to the respective branches representing diff
 
 - [SQL Branch](https://github.com/tzjZhengJie/PersonalProject/tree/SQL) - Projects related to SQL queries and database analysis.
 - [Tableau Profile](https://public.tableau.com/app/profile/tan.zheng.jie) - Projects created using Tableau for data visualization and analysis.
+- [Power BI Branch](https://github.com/tzjZhengJie/DataAnalyst_Project/tree/PowerBI) - Projects utilizing Power BI for data visualization and reporting.
 - [Excel Branch](https://github.com/tzjZhengJie/DataAnalyst_Project/tree/Excel) - Projects involving data analysis and manipulation in Excel.
+- [Python Branch](https://github.com/tzjZhengJie/DataAnalyst_Project/tree/Python) - Projects showcasing data analysis using Python and related libraries.
 
 Feel free to explore the branches and their respective projects.
 
